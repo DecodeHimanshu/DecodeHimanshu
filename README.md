@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DecodeHimanshu
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... DSA
+SOC Analyst | Hunting threats with Splunk & QRadar | MITRE ATT&CK | Incident Response | Python automation | CEH v13 in progress 🔐
 
 
